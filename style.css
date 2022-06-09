@@ -1,0 +1,135 @@
+body {
+    background-color: #1a2e51;
+    width: 100%; 
+    font-family: "Helvetica", "sans-serif";
+}
+
+.white-background {
+    background-color: white;
+    width: 100%;
+}
+
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 25px;
+    color: #ffffff;
+}
+
+.name {
+    font-family: "Andale Mono", "monospace";
+    font-weight: 1000;
+    font-size: 26px;
+    padding-left: 75px;
+}
+
+.menu {
+    font-size: 15px;
+    padding-right: 100px;
+}
+
+#link-header1 {
+    text-decoration: none;
+    color: white;
+    padding: 17px;
+}
+
+#link-header2 {
+    text-decoration: none;
+    color: white;
+    padding: 17px;
+}
+
+#link-header3 {
+    text-decoration: none;
+    color: white;
+    padding: 17px;
+}
+
+#main {
+    padding: 30px;
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#main-content {
+    padding-left: 115px;
+    padding-top: 110px;
+}
+
+#main-name {
+    font-family: "Andale Mono", "monospace";
+    font-weight: 1000;
+    font-size: 42px;
+    color: #1a2e51;
+    padding: 10px;
+    justify-content: center;
+}
+
+#main-text {
+    padding: 15px;
+    padding-top: 5px;
+    padding-bottom: 40px;
+    font-size: 25px;
+    font-weight: 100;
+    justify-content: center;
+}
+
+#main-button {
+    color: white;
+    background-color: #1a2e51;
+    border: none;
+    border-radius: 17px;
+    padding: 7px 40px;
+    font-size: 18px;
+    font-weight: bold;
+    justify-content: center;
+}
+
+#main-button-link {
+    text-decoration: none;
+    text-decoration-line: none;
+    color: white;
+}
+
+#about {
+    padding: 30px;
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#about-title {
+    font-family: "Andale Mono", "monospace";
+    font-weight: 1000;
+    font-size: 32px;
+    color: #1a2e51;
+    padding: 10px;
+    justify-content: center;
+}
+
+#about-text {
+    color: black;
+}
+
+footer {
+    color: white;
+    height: 35px;
+}
+
+#plans {
+    margin: 0;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 7px;
+    padding-right: 15px;
+}
+
+
